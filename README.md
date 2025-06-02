@@ -24,17 +24,17 @@ Welcome to Genshin Impact Tool, the ultimate utility for enhancing your Genshin 
 
 ## Key Features 
 Genshin Impact Tool includes a variety of advanced features tailored to your needs: 
-- # Unlock All Characters: Easily unlock all characters in Genshin Impact. 
-- # Increase Primogems: Boost your Primogems to purchase items and characters. 
-- # Bypass Anti-Cheat System: Safely bypass the anti-cheat system without risking account bans. 
-- # Auto Farm: Automatically farm resources and materials. 
-- # Unlock Daily Quests: Complete daily quests faster and earn more rewards. 
-- # Unlock Battle Pass: Access higher tiers of the battle pass. 
-- # Unlock Reputation: Increase reputation levels quickly. 
-- # Unlock Shrines of Depths: Explore and complete all shrines of depths. 
-- # User-Friendly Interface: Navigate easily through a clean and intuitive interface. 
-- # Compatibility: Fully compatible with the latest Genshin Impact updates. 
-- # Secure and Reliable: Built with security in mind, ensuring a safe user experience.
+- Unlock All Characters: Easily unlock all characters in Genshin Impact. 
+- Increase Primogems: Boost your Primogems to purchase items and characters. 
+- Bypass Anti-Cheat System: Safely bypass the anti-cheat system without risking account bans. 
+- Auto Farm: Automatically farm resources and materials. 
+- Unlock Daily Quests: Complete daily quests faster and earn more rewards. 
+- Unlock Battle Pass: Access higher tiers of the battle pass. 
+- Unlock Reputation: Increase reputation levels quickly. 
+- Unlock Shrines of Depths: Explore and complete all shrines of depths. 
+- User-Friendly Interface: Navigate easily through a clean and intuitive interface. 
+- Compatibility: Fully compatible with the latest Genshin Impact updates. 
+- Secure and Reliable: Built with security in mind, ensuring a safe user experience.
 
 ## How to Use 
 Once you have installed Genshin Impact Tool, follow these steps to start using it: 
