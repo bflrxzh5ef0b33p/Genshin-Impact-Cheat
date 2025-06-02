@@ -48,4 +48,4 @@ Once you have installed Genshin Impact Tool, follow these steps to start using i
 We encourage community contributions to help make Genshin Impact Tool even better. If you have ideas, bug reports, or want to contribute to the codebase, feel free to submit a pull request. Your input is invaluable!
 
 ## Contact Us 
-Join our Community on Discord (https://discord.gg/GenshinImpact)! For support, updates, and to connect with other users, visit our Discord server.
+Join our Community on [Discord](https://discord.gg/GenshinImpact)! For support, updates, and to connect with other users, visit our Discord server.
